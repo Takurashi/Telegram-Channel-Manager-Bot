@@ -1,0 +1,10 @@
+aiogram
+g4f
+feedparser
+apscheduler
+sqlalchemy
+aiohttp
+beautifulsoup4
+Pillow
+python-dotenv
+markdown2
